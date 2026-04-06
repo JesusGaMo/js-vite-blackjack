@@ -6,6 +6,7 @@ Pasos para ejecutar el proyecto
 2. Ejecutar ```npm install``` para reconstruir los modulos de node
 3. Correr el devSerever ```npm run dev```
 4. Abrir el proyecto en ```localhost```
+5. Punto de prueba
 
 ## Produccion
 
